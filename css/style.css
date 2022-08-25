@@ -1,0 +1,36 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.header.logo {
+  color: #F9FAF8;
+  font-size: 24px;
+  padding-left: 150px;
+}
+
+.header.container {
+  background-color: #1F2937;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+ul {
+  list-style: none;
+  display: flex;
+  gap: 12px;
+  padding-right: 150px;
+}
+
+.right-links{
+  font-size: 18px;
+  color: #E5E7EB;
+  list-style: none;
+  text-decoration: none;
+}
