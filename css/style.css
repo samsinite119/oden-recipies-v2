@@ -135,10 +135,7 @@ a {
   justify-content: center;
   min-height: 200px;
   background-color: #E5E7EB;
-  padding-left: 150px;
-  padding-right: 150px;
-  padding-top: 100px;
-  padding-bottom: 100px;
+  padding: 100px 200px;
 }
 
 .quote {
@@ -155,10 +152,7 @@ a {
 }
 
 .bottom-body {
-  padding-left: 150px;
-  padding-right: 150px;
-  padding-top: 100px;
-  padding-bottom: 100px;
+  padding: 100px 100px;
   min-height: 300px;
 }
 
@@ -187,4 +181,12 @@ a {
   font-weight: bolder;
 }
 
+.footer {
+  background-color: #1F2937;
+  color: #E5E7EB;
+  text-align: center;
+  text-justify: auto;
+  height: 50px;
+  padding-top: 20px;
+}
 
